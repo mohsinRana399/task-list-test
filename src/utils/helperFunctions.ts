@@ -1,3 +1,4 @@
+import React from "react";
 import { Task } from "./../model";
 import { LOCAL_STORAGE_TASKS } from "./Constants";
 

@@ -38,7 +38,7 @@ const InputForm: React.FC<InputProps> = ({ task, setTask, handleAddTask }) => {
         onChange={(e) => setTask(e.target.value)}
       />
       <Button variant="contained" color="success" type="submit">
-        Add
+        Add (Test branch commit)
       </Button>
     </form>
   );
